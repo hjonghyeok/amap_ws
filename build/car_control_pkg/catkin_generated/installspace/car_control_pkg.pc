@@ -1,0 +1,8 @@
+prefix=/home/asd/amap_ws/install
+
+Name: car_control_pkg
+Description: Description of car_control_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
